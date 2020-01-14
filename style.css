@@ -1,0 +1,27 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+h1 {
+  font-size: 2em;
+  margin: 1em;
+  font-weight: bold;
+}
+h6 {
+  font-size: 0.8em;
+  margin: 1em;
+}
+p {
+  margin-top: 1em;
+}
+input {
+  margin-top: 0.5em;
+}
+form {
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 1em;
+  border-style: double;
+  border-width: 3px;
+  border-radius: 8px;
+}
